@@ -1,5 +1,4 @@
 # 💫About Me :
-- 🔭 I’m currently working on [Teclink Myanmar](https://teclinkmyanmar.com/).
 - 💬 Ask me about Flutter, Kotlin or Swift.
 - 📫 How to reach me: [Twitter - @zwe_mun_htun](https://twitter.com/zwe_mun_htun) ,
 - 😄 Pronouns: He/His
@@ -18,11 +17,8 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zwe-mun-htun&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### Dev Card
+<a href="https://app.daily.dev/zwemunhtun"><img src="https://api.daily.dev/devcards/v2/dxe57AQSfxFnEO5UGs1Uf.png?type=wide&r=xry" width="400" alt="Zwe Mun Htun's Dev Card"/></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zwe-mun-htun&icon=0&color=0)](https://visitcount.itsvg.in)
